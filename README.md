@@ -1,3 +1,3 @@
 # paxos
 
-My own implementation of paxos and it's variants.
+My own implementation of Paxos and it's variants.
